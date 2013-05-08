@@ -1,10 +1,14 @@
 ﻿using System;
 
-public class TestClass
+namespace SharedStuff
 {
-	public TestClass()
-	{
-        //hepp som happ du! VS edit!
-		//new edit from xamarin studio on my MAC
-	}
+    public class TestClass
+    {
+        public TestClass()
+        {
+            //hepp som happ du! VS edit!
+            //new edit from xamarin studio on my MAC
+            //adding some more from vs!
+        }
+    }
 }
