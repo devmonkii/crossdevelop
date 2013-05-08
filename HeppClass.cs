@@ -8,5 +8,6 @@ namespace MyApp.Android.Core
 {
     class HeppClass
     {
+        //woohooooo
     }
 }
