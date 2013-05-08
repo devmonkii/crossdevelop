@@ -9,5 +9,6 @@ namespace MyApp.Android.Core
     class FirstSharedClass
     {
 		// testar :]
+        
     }
 }
