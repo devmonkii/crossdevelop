@@ -1,0 +1,5 @@
+c:\users\dabj00\documents\visual studio 2012\Projects\MyApp.Android\MyApp.Android.Core\bin\Debug\MyApp.Android.Core.dll
+c:\users\dabj00\documents\visual studio 2012\Projects\MyApp.Android\MyApp.Android.Core\bin\Debug\MyApp.Android.Core.pdb
+c:\users\dabj00\documents\visual studio 2012\Projects\MyApp.Android\MyApp.Android.Core\obj\Debug\MyApp.Android.Core.csprojResolveAssemblyReference.cache
+c:\users\dabj00\documents\visual studio 2012\Projects\MyApp.Android\MyApp.Android.Core\obj\Debug\MyApp.Android.Core.dll
+c:\users\dabj00\documents\visual studio 2012\Projects\MyApp.Android\MyApp.Android.Core\obj\Debug\MyApp.Android.Core.pdb
